@@ -91,5 +91,5 @@
 - **[Sarah Alkanhal]**
   - Email: [sarah.alkanhall@gmail.com] 
   - GitHub: [sarahmkk11](https://github.com/sarahmkk11)  
-  - LinkedIn: [sarah-alkanhal-132083222](linkedin.com/in/sarah-alkanhal-132083222/) 
+  - LinkedIn: [sarah-alkanhal-132083222](linkedin.com/in/sarah-alkanhal\-) 
   
